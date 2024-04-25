@@ -1,0 +1,18 @@
+export const COLORS = {
+  primary: '#42a5f5',
+  secondary: '#000000',
+  white: '#FFFFFF',
+  light: '#f5f5f5',
+  dark: '#333333',
+  grey: '#666666',
+  grey2: '#C4C4C4',
+  grey3: '#EFEFF0',
+  grey4: '#F8F8F8',
+  transparent: 'transparent',
+  transparentBlack1: 'rgba(0, 0, 0, 0.1)',
+  transparentBlack7: 'rgba(0, 0, 0, 0.7)',
+  transparentBlack9: 'rgba(0, 0, 0, 0.9)',
+  transparentWhite1: 'rgba(255, 255, 255, 0.1)',
+  transparentWhite7: 'rgba(255, 255, 255, 0.7)',
+  transparentWhite9: 'rgba(255, 255, 255, 0.9)',
+};
